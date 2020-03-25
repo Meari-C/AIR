@@ -4,6 +4,7 @@ import logging
 import sys
 import traceback
 import os
+import re
 
 def synth(Lists):
     Lsynth=[]
